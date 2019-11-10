@@ -1,0 +1,100 @@
+body {
+    
+}
+
+
+h1 {
+    display: block;
+    font-size: 2em;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+nav {
+	padding-left: 12.5%;
+    margin-top: 15px;
+}
+.date {
+    font-style: oblique;
+    padding-left: 10%;
+}
+
+h4 {
+    display: block;
+    margin-block-start: 1.33em;
+    margin-block-end: 1.33em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+.event {
+    padding-left: 15%;
+    font-weight: bolder;
+    padding-bottom: 2%;
+}
+h3 {
+    display: block;
+    font-size: 1.17em;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+
+.content {
+    /*padding-left: 5%;*/
+    padding-right: 5%;
+    padding-top: 2%;
+}
+.footer {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: gray;
+   color: white;
+   text-align: center;
+}
+p.copyright {
+    position: absolute;
+    width: 100%;
+    color: #fff;
+    line-height: 40px;
+    font-size: 0.7em;
+    text-align: center;
+    bottom:0;
+}
+img {
+	width: 120px;
+	display: block;
+	float: left;
+	padding-right: 10px;
+}
+.upevents {
+	padding-left: 10%;
+    margin-top: 40px;
+}
+.maincontent {
+	margin-top: 30px;
+}
+.textcontent {
+	padding-left: 150px;
+	position: relative;
+    top: -30px;
+}
+.mailto {
+	padding-left: 150px;
+	position: relative;
+    top: -16px;
+}
